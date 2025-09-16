@@ -3814,7 +3814,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 76.2) (xy 133.35 76.2)
+			(xy 153.67 76.2) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3824,7 +3824,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 77.47) (xy 149.86 76.2)
+			(xy 153.67 77.47) (xy 153.67 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8763,7 +8763,7 @@
 		(uuid "0e379a87-b9fe-4713-825f-03a28f3efb3f")
 	)
 	(label "LED_CTL_7"
-		(at 135.89 101.6 0)
+		(at 135.89 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8913,7 +8913,7 @@
 		(uuid "376db303-6926-4371-8db5-dae7aea1acdb")
 	)
 	(label "LED_CTL_3"
-		(at 135.89 91.44 0)
+		(at 135.89 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8953,7 +8953,7 @@
 		(uuid "3fc11479-6895-4063-9733-588757a0bf01")
 	)
 	(label "LED_CTL_5"
-		(at 135.89 96.52 0)
+		(at 135.89 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9043,7 +9043,7 @@
 		(uuid "53beba0a-1181-48de-88ba-26be2ce3124f")
 	)
 	(label "LED_CTL_0"
-		(at 135.89 83.82 0)
+		(at 135.89 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9103,7 +9103,7 @@
 		(uuid "5d184b48-15b2-4d35-a111-e8fb4c519ec5")
 	)
 	(label "LED_CTL_2"
-		(at 135.89 88.9 0)
+		(at 135.89 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9403,7 +9403,7 @@
 		(uuid "a7992c09-e2e0-4936-a0d4-5c17b15ffac3")
 	)
 	(label "MCU_TRNS_CTL"
-		(at 135.89 104.14 0)
+		(at 135.89 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9473,7 +9473,7 @@
 		(uuid "c1527538-4944-45fd-9226-dd0ba67e35cf")
 	)
 	(label "LED_CTL_4"
-		(at 135.89 93.98 0)
+		(at 135.89 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9563,7 +9563,7 @@
 		(uuid "ce73bc2b-ca1d-459b-936d-9dbb072edf7c")
 	)
 	(label "3V3_TRNS"
-		(at 354.33 43.18 0)
+		(at 354.33 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9593,7 +9593,7 @@
 		(uuid "d498a036-f9f8-4679-b855-5fde3dc09f04")
 	)
 	(label "MCU_TRNS_CTL"
-		(at 354.33 45.72 0)
+		(at 354.33 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9623,12 +9623,12 @@
 		(uuid "d831508a-c8f1-451e-94cf-548dd0269718")
 	)
 	(label "SEL_TRNS_3"
-		(at 105.41 76.2 180)
+		(at 135.89 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "db61806d-5144-498c-8fbe-a459925cb1bd")
 	)
@@ -9643,12 +9643,12 @@
 		(uuid "dc5833bd-1ffd-4cde-867a-c3185b0b31c2")
 	)
 	(label "SEL_TRNS_0"
-		(at 135.89 81.28 0)
+		(at 105.41 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "dd6071da-0e39-4539-88d6-9a6152120a4b")
 	)
@@ -9683,7 +9683,7 @@
 		(uuid "f4c7edff-a324-41cd-8d04-443ac9f250f1")
 	)
 	(label "LED_CTL_1"
-		(at 135.89 86.36 0)
+		(at 135.89 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9723,7 +9723,7 @@
 		(uuid "fca8f9f3-d5a9-4c10-b1ab-e377e02ae8e0")
 	)
 	(label "LED_CTL_6"
-		(at 135.89 99.06 0)
+		(at 135.89 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14079,7 +14079,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 149.86 77.47 0)
+		(at 153.67 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14087,7 +14087,7 @@
 		(dnp no)
 		(uuid "3d7b9f84-04ba-494f-8971-d6eaae63bc99")
 		(property "Reference" "#PWR02"
-			(at 149.86 83.82 0)
+			(at 153.67 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14096,7 +14096,7 @@
 			)
 		)
 		(property "Value" "GND1"
-			(at 149.86 81.788 0)
+			(at 153.67 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14104,7 +14104,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 77.47 0)
+			(at 153.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14113,7 +14113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 77.47 0)
+			(at 153.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14122,7 +14122,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 149.86 77.47 0)
+			(at 153.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
