@@ -8992,6 +8992,16 @@
 		)
 		(uuid "466b3385-ad6a-4eaf-be19-d18f0e6fbbc7")
 	)
+	(label "PHT_DAT_2_R"
+		(at 135.89 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "49368eea-dc78-495e-b576-232711fc8337")
+	)
 	(label "PHT_DAT_8"
 		(at 356.87 177.8 180)
 		(effects
@@ -9021,6 +9031,26 @@
 			(justify right bottom)
 		)
 		(uuid "4f203d4f-4640-472d-8c2b-f60478817f4a")
+	)
+	(label "PHT_DAT_8_R"
+		(at 304.8 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4f5a32a7-080b-466f-90d1-437e0b123e3c")
+	)
+	(label "PHT_DAT_15_R"
+		(at 135.89 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50dde706-af0c-4187-8d52-4586f08e2c87")
 	)
 	(label "3V3_RECV"
 		(at 358.14 207.01 180)
@@ -9212,6 +9242,16 @@
 		)
 		(uuid "70359158-01b0-438c-8875-b63c5855f7be")
 	)
+	(label "PHT_DAT_7_R"
+		(at 304.8 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "70c9e6aa-a8ac-4894-8e81-bb54daea503c")
+	)
 	(label "PHT_DAT_10"
 		(at 205.74 201.93 180)
 		(effects
@@ -9221,6 +9261,16 @@
 			(justify right bottom)
 		)
 		(uuid "7deb5aa1-f325-43fe-b4e2-c6a91e300932")
+	)
+	(label "PHT_DAT_13_R"
+		(at 60.96 209.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81807220-9a1d-4daf-a274-6723e4d9787f")
 	)
 	(label "3V3_TRNS"
 		(at 105.41 104.14 180)
@@ -9251,6 +9301,16 @@
 			(justify right bottom)
 		)
 		(uuid "872045de-b6ba-484b-800c-79545aaf631a")
+	)
+	(label "PHT_DAT_14_R"
+		(at 135.89 209.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8b99b98f-a4e6-4c58-a632-e2fefa0007aa")
 	)
 	(label "3V3_RECV"
 		(at 354.33 69.85 0)
@@ -9312,6 +9372,16 @@
 		)
 		(uuid "94fc2934-4c8d-4d48-be4d-c429036ba7a2")
 	)
+	(label "PHT_DAT_4_R"
+		(at 226.06 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95776f89-b254-448d-9ac9-4c6b20159f75")
+	)
 	(label "PHT_DAT_6"
 		(at 330.2 144.78 0)
 		(effects
@@ -9351,6 +9421,16 @@
 			(justify right bottom)
 		)
 		(uuid "9cdf470f-2ad5-48fe-bb72-4b776c0ee021")
+	)
+	(label "PHT_DAT_10_R"
+		(at 229.87 209.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9e5bc01b-cf43-4cd3-a40e-04cb0ecf6f3d")
 	)
 	(label "LED_CTL_10"
 		(at 185.42 63.5 180)
@@ -9422,6 +9502,16 @@
 		)
 		(uuid "b08ed08e-5a32-4ba1-a8ba-211f73914025")
 	)
+	(label "PHT_DAT_1_R"
+		(at 60.96 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b11c6519-bd92-4b7a-8741-82a854242504")
+	)
 	(label "PHT_DAT_9"
 		(at 330.2 204.47 0)
 		(effects
@@ -9432,6 +9522,16 @@
 		)
 		(uuid "b730f291-3193-416b-8b00-69977b72f22d")
 	)
+	(label "PHT_DAT_11_R"
+		(at 226.06 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b8785431-777c-413e-a6fe-5a8f35facfd4")
+	)
 	(label "NON_INVERTING_REF"
 		(at 138.43 193.04 0)
 		(effects
@@ -9441,6 +9541,16 @@
 			(justify left bottom)
 		)
 		(uuid "baf6e79d-0362-4e7c-83ef-16ee71bb6440")
+	)
+	(label "PHT_DAT_5_R"
+		(at 229.87 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc3fb8d8-ec00-4f08-86bb-5f7cdb3bd282")
 	)
 	(label "PHT_DAT_4"
 		(at 387.35 170.18 0)
@@ -9542,6 +9652,16 @@
 		)
 		(uuid "cacfcf53-df7e-441c-9a69-2b549a166f62")
 	)
+	(label "PHT_DAT_12_R"
+		(at 57.15 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "caeb7a0e-8915-4814-85a3-06b0d3dfd646")
+	)
 	(label "LED_CTL_0"
 		(at 33.02 63.5 180)
 		(effects
@@ -9581,6 +9701,16 @@
 			(justify right bottom)
 		)
 		(uuid "d35f408d-b21d-4805-bd8c-7205e4a25636")
+	)
+	(label "PHT_DAT_6_R"
+		(at 304.8 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d3cfbb82-6d31-4fd7-8ff3-8fc3d3dfafdf")
 	)
 	(label "SEL_TRNS_2"
 		(at 105.41 78.74 180)
@@ -9652,6 +9782,16 @@
 		)
 		(uuid "dd6071da-0e39-4539-88d6-9a6152120a4b")
 	)
+	(label "PHT_DAT_9_R"
+		(at 304.8 209.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e2bad3f3-bdf3-4137-8de7-6a1ae9331419")
+	)
 	(label "PHT_DAT_1"
 		(at 36.83 142.24 180)
 		(effects
@@ -9691,6 +9831,16 @@
 			(justify left bottom)
 		)
 		(uuid "f4fd99a3-bc6a-425a-a526-67b436c4c000")
+	)
+	(label "PHT_DAT_3_R"
+		(at 135.89 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f533e16a-1f07-4568-a990-8c13ead30380")
 	)
 	(label "PHT_DAT_2"
 		(at 161.29 144.78 0)
@@ -9741,6 +9891,16 @@
 			(justify right bottom)
 		)
 		(uuid "fd521939-b677-422b-a446-3d95abc97e93")
+	)
+	(label "PHT_DAT_0_R"
+		(at 57.15 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe229171-446e-4780-8ffc-8961e6f210a8")
 	)
 	(label "PHT_DAT_0"
 		(at 387.35 160.02 0)
